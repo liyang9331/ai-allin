@@ -26,7 +26,7 @@ https://github.com/XPixelGroup/DiffBIR
 https://github.com/omerbt/TokenFlow  
 ### propainter【视频抠像】
 https://github.com/sczhou/ProPainter  
-### coderformer【视频图像2高分辨率】
+### coderformer【视频图像超分辨率】
 https://github.com/sczhou/CodeFormer  
 ### generative-dynamics【照片动起来】
 https://generative-dynamics.github.io/  
