@@ -1,8 +1,7 @@
-# ai-allin
-ai最新动向
+# ai-allin【ai最新动向】
 ## AIGC
 ### stable-diffusion
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
+((https://github.com/AUTOMATIC1111/stable-diffusion-webui))
 ### Midjorney
 https://www.midjourney.com/home
 ### clipdrop-隔空取物【手机扫描转发到电脑上】
