@@ -9,5 +9,5 @@ https://clipdrop.co/
 
 ## AI虚拟增强
 ### Nvidia broadcast-eye contact【使人的眼睛专注于屏幕前】
-https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/
-https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/
+https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/  
+https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/  
